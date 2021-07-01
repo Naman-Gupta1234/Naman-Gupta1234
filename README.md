@@ -2,6 +2,7 @@
 
 
 🌱 I’m currently learning Web Development
+
 👯 I’m looking to collaborate on Front-end projects
 
 📫 How to reach me: naman6112gupta@gmail.com
