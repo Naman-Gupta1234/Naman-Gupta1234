@@ -8,7 +8,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=naman-gupta1234.naman-gupta1234) -->
 
 </p>
-<div size='20px'> Hi! My name is Naman.
+ <div size='20px'> Hi! My name is <strong>Naman</strong>.
  Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
